@@ -1,0 +1,7 @@
+{
+  "angular.enable-strict-mode-prompt": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 30000
+}
